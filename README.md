@@ -7,10 +7,12 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+          <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
           </div>
     </div>
     <div align= "center">
