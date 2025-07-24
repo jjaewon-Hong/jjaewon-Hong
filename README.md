@@ -11,9 +11,7 @@
           <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-          <a href="https://www.java.com/">
-  <img height="25" src="https://img.shields.io/badge/Java-007396?style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACp6oK2AAAACXBIWXMAAAsTAAALEwEAmpwYAAABG0lEQVR4nO2TQQrCQAxFz3YKwAhkAEZgAlYAR2ACTYAIdgA1wA3UAFoAVNE9xM2Npq77j3YER2LrZnJgghJcwuAfXoZ3M4I60EQMJkRGkX4FGARzhs8R5Eli8RM2CeA6xqg8QS5QAK8rgUO0FYdBRzFRH4Ur2wLeUIRNeZ6jG4jmgYwRcb4gffM2aK+ROKq3ppz4RvOqUNUYyqCSixYHeYxDgF9AkfbKO7yy5oHewAAAABJRU5ErkJggg==">
-</a>
+          <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
           <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
           </div>
     </div>
