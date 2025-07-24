@@ -11,7 +11,7 @@
           <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=oracle&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
           </div>
     </div>
