@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello!!%20I'm%20Jaewon&animation=twinkling&fontColor=000000&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2342,A8A200&height=240&text=Hello!!%20I'm%20Jaewon&animation=twinkling&fontColor=ffffff&fontSize=60" alt="header" />
 </div>
 
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> </h2>  
-  <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> </div> 
 </div>
 
 <div align="center">
@@ -33,4 +32,7 @@
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
   <div align="center"> 
-    <img src="
+    <img src="https://github-readme-stats.vercel.app/api?username=Jaewon-Hong-ai&bg_color=0A2342,A8A200&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" height="180px" alt="Jaewon's Github Stats"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaewon-Hong-ai&layout=compact&bg_color=0A2342,A8A200&title_color=ffffff&text_color=ffffff&hide_border=true" height="180px" alt="Top Languages"/> 
+  </div> 
+</div>
