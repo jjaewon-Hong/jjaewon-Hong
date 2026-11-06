@@ -21,6 +21,9 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> 
     <br> 
+    <a href="https://jjaewon-hong.github.io">
+        <img src="https://img.shields.io/badge/Portfolio-1D5FBF?style=for-the-badge&logo=githubpages&logoColor=white">
+    </a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hongjaewon0428@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
