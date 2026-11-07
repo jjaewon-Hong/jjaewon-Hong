@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="44" viewBox="0 0 250 44" role="img" aria-label="jjaewon-hong.github.io">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5aa9ff"/>
+      <stop offset="0.5" stop-color="#2f81f7"/>
+      <stop offset="1" stop-color="#1a5fd0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="249" height="43" rx="10" fill="url(#base)" stroke="#1450b5"/>
+  <rect x="3" y="2.5" width="244" height="20.0" rx="8" fill="url(#shine)"/>
+  <g transform="translate(16 12)" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="9"/><path d="M1 10h18M10 1c2.8 2.6 2.8 15.4 0 18M10 1c-2.8 2.6-2.8 15.4 0 18"/></g>
+  <text x="140.0" y="28" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="700">jjaewon-hong.github.io</text>
+</svg>
